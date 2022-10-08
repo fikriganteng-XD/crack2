@@ -1,0 +1,511 @@
+Nokia6280/2.0 (03.60) Profile/MIDP-2.0 Configuration/CLDC-1.1 Google
+Mozilla/5.0 (SymbianOS/9.2; U; Series60/3.1 NokiaN95/35.0.002; Profile/MIDP-2.0 Configuration/CLDC-1.1 ) AppleWebKit/413 (KHTML, like Gecko) Safari/413
+Mozilla/5.0 (SymbianOS/9.4; Series60/5.0 Nokia5228/51.1.002; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.1.33 Mobile Safari/533.4 3gpp-gba
+Mozilla/5.0 (Symbian/3; Series60/5.2 NokiaN8-00/025.007; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.1.37 Mobile Safari/533.4 3gpp-gba
+Mozilla/5.0 (Symbian/3; Series60/5.3 NokiaN8-00/111.030.0609; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.4.2.6 Mobile Safari/533.4 3gpp-gba
+Mozilla/5.0 (Linux; Android 4.1.2; Nokia_X Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.82 Mobile Safari/537.36 NokiaBrowser/1.2.0.12
+Nokia220/14.00.11 (Series30Plus)
+Mozilla/5.0 (Symbian/3; Series60/5.3 NokiaC7-00/111.030.0609; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.4.2.6 Mobile Safari/533.4 3gpp-gba
+Mozilla/5.0 (Symbian/3; Series60/5.3 NokiaC6-01/111.040.1511; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/535.1 (KHTML, like Gecko) NokiaBrowser/8.3.1.4 Mobile Safari/535.1 3gpp-gba
+Nokia311/5.0 (05.92) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+
+Mozilla/5.0 (SymbianOS/9.2; U; Series60/3.1 NokiaN95/10.0.018; Profile/MIDP-2.0 Configuration/CLDC-1.1) AppleWebKit/413 (KHTML, like Gecko) Safari/413 UP.Link/6.3.0.0.0
+Mozilla/5.0 (Symbian/3; Series60/5.5 Nokia603/113.010.1506; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/535.1 (KHTML, like Gecko) NokiaBrowser/8.3.2.21 Mobile Safari/535.1 3gpp-gba
+Mozilla/5.0 (Linux; Android 4.1.2; Nokia_XL Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.82 Mobile Safari/537.36 NokiaBrowser/1.2.0.12
+Mozilla/5.0 (SymbianOS/9.4; Series60/5.0 Nokia5228/21.1.004; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.2.5.2 3gpp-gba
+Mozilla/5.0 (Symbian/3; Series60/5.3 NokiaN8-00/111.040.1511; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/535.1 (KHTML, like Gecko) NokiaBrowser/8.3.1.4 Mobile Safari/535.1 3gpp-gba
+Mozilla/5.0 (SymbianOS/9.3; U; Series60/3.2 Nokia5630d-1/013.009; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/413 (KHTML, like Gecko) Safari/413
+Mozilla/5.0 (Linux; Android 4.1.2; Nokia_X Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.87.90 Mobile Safari/537.36 NokiaBrowser/1.0
+Mozilla/5.0 (Symbian/3; Series60/5.2 NokiaC7-00/025.007; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.1.37 Mobile Safari/533.4 3gpp-gba
+Mozilla/5.0 (SymbianOS/9.4; Series60/5.0 Nokia5230/51.0.002; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.1.33 Mobile Safari/533.4 3gpp-gba
+NokiaC3-01.5/5.0 (07.32) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+
+Mozilla/5.0 (SymbianOS/9.4; Series60/5.0 Nokia5228/50.1.001; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.1.25 Mobile Safari/533.4 3gpp-gba
+Mozilla/5.0 (Symbian/3; Series60/5.3 Nokia500/111.021.0028; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/535.1 (KHTML, like Gecko) NokiaBrowser/8.3.1.4 Mobile Safari/535.1 3gpp-gba
+Mozilla/5.0 (SymbianOS/9.4; Series60/5.0 Nokia5230/50.0.001; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.1.25 Mobile Safari/533.4 3gpp-gba
+NokiaC2-01/5.0 (11.20) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+
+Nokia300/5.0 (07.44) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+
+Mozilla/5.0 (Linux; Android 4.1.2; Nokia_X Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.82 Mobile Safari/537.36 NokiaBrowser/1.0.1.56
+Nokia7610/2.0 (5.0509.0) SymbianOS/7.0s Series60/2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0
+Mozilla/5.0 (Linux; Android 4.1.2; Nokia_XL Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.82 Mobile Safari/537.36 NokiaBrowser/1.0.1.56
+NokiaC2-01/5.0 (11.40) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+
+Mozilla/5.0 (SymbianOS/9.4; Series60/5.0 NokiaC5-03/20.0.024; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.1.25 Mobile Safari/533.4 3gpp-gba
+Nokia113/2.0 (03.47) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia5310XpressMusic/2.0 (10.10) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Mozilla/5.0 (SymbianOS/9.2; U; Series60/3.1 NokiaE66-1/400.21.013; Profile/MIDP-2.0 Configuration/CLDC-1.1 ) AppleWebKit/413 (KHTML, like Gecko) Safari/413
+Nokia6060/2.0 (3.03) Profile/MIDP-2.0 Configuration/CLDC-1.1 UNTRUSTED/1.0
+Mozilla/5.0 (SymbianOS/9.1; U; en-us) AppleWebKit/413 (KHTML, like Gecko) Safari/413 es65
+NokiaN70-1/5.0705.3.0.1 Series60/2.8 Profile/MIDP-2.0 Configuration/CLDC-1.1
+Mozilla/5.0 (Symbian/3; Series60/5.3 Nokia603/111.020.0310; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.4.1.14 Mobile Safari/533.4 3gpp-gba
+Nokia300/5.0 (07.57) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+
+Mozilla/5.0 (SymbianOS/9.2; U; Series60/3.1 NokiaE63-1/410.21.010; Profile/MIDP-2.0 Configuration/CLDC-1.1 ) AppleWebKit/413 (KHTML, like Gecko) Safari/413
+Mozilla/5.0 (SymbianOS/9.3; Series60/3.2 NokiaE5-00/071.003; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.1.26 Mobile Safari/533.4 3gpp-gba
+NokiaX3-00/5.0 (04.11) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+
+Nokia5228/UCWEB8.6.0.180/50/352
+Mozilla/5.0 (Linux; Android 4.1.2; Nokia_XL Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.82 Mobile Safari/537.36 NokiaBrowser/1.0.1.54
+Mozilla/5.0 (SymbianOS/9.3; U; Series60/3.2 Nokia5320d-1/05.16; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/413 (KHTML, like Gecko) Safari/413
+Mozilla/5.0 (Symbian/3; Series60/5.2 NokiaC7-00/022.014; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.1.37 Mobile Safari/533.4 3gpp-gba
+Mozilla/5.0 (Symbian/3; Series60/5.3 NokiaC6-01/111.030.0610; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.4.2.7 Mobile Safari/533.4 3gpp-gba
+Mozilla/5.0 (SymbianOS/9.3; Series60/3.2 NokiaE72-1/091.003; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.1.34 Mobile Safari/533.4 3gpp-gba
+Nokia112/2.0 (03.48) Profile/MIDP-2.1 Configuration/CLDC-1.1  UNTRUSTED/1.0
+Mozilla/5.0 (SymbianOS/9.3; Series60/3.2 NokiaC5-00.2/071.003; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.1.26 Mobile Safari/533.4 3gpp-gba
+Mozilla/5.0 (SymbianOS/9.3; Series60/3.2 NokiaC5-00.2/101.003; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.1.35 Mobile Safari/533.4 3gpp-gba
+NokiaX2-02/2.0 (11.79) Profile/MIDP-2.1 Configuration/CLDC-1.1  UNTRUSTED/1.0
+Mozilla/5.0 (SymbianOS/9.4; Series60/5.0 Nokia5800d-1/52.0.007; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.2.6.9 3gpp-gba
+Mozilla/5.0 (Symbian/3; Series60/5.2 NokiaE7-00/025.007; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.1.37 Mobile Safari/533.4 3gpp-gba
+Mozilla/5.0 (SymbianOS/9.3; Series60/3.2 NokiaC5-00/062.001; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.2.6.2 3gpp-gba
+Mozilla/5.0 (Symbian/3; Series60/5.5 Nokia700/113.010.1506; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/535.1 (KHTML, like Gecko) NokiaBrowser/8.3.2.21 Mobile Safari/535.1 3gpp-gba
+Nokia6303iclassic/5.0 (06.61) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+
+NokiaC2-05/2.0 (08.79) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaC1-02/2.0 (06.15) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Mozilla/5.0 (SymbianOS/9.4; U; Series60/5.0 Nokia5800d-1/31.0.008; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/413 (KHTML, like Gecko) Safari/413
+Mozilla/5.0 (SymbianOS/9.4; U; Series60/5.0 Nokia5230/50.0.001; Profile/MIDP-2.1 Configuration/CLDC-1.1; ru) AppleWebKit/525 (KHTML, like Gecko) NokiaBrowser/7.3.1.25
+Mozilla/5.0 (Symbian/3; Series60/5.3 Nokia701/111.020.0307; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.4.1.14 Mobile Safari/533.4 3gpp-gba
+Nokia110/2.0 (03.47) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Mozilla/5.0 (SymbianOS/9.3; Series60/3.2 NokiaC5-00/031.022; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.2.3.1
+Nokia7610/2.0 (5.0509.0) SymbianOS/7.0s Series60/2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0 Google
+Mozilla/5.0 (SymbianOS/9.3; Series60/3.2 NokiaE5-00/042.010; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.2.6.2 3gpp-gba
+Nokia6303iclassic/5.0 (10.80) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+
+Nokia7270/2.0 (03.24) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia6060/2.0 (k3.62) Profile/MIDP-2.0 Configuration/CLDC-1.1 Google
+Nokia308/2.0 (08.13) Profile/MIDP-2.1 Configuration/CLDC-1.1 Google
+Nokia503/2.0 (14.0.6) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+Mozilla/5.0 (Symbian/3; Series60/5.2 NokiaC7-00/013.016; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.2.8.10 3gpp-gba
+Mozilla/5.0 (SymbianOS/9.2; U; Series60/3.1 NokiaN82/35.0.002; Profile/MIDP-2.0 Configuration/CLDC-1.1 ) AppleWebKit/413 (KHTML, like Gecko) Safari/413
+Mozilla/5.0 (SymbianOS/9.4; Series60/5.0 Nokia5800d-1/50.0.005; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.2.3
+Mozilla/5.0 (Symbian/3; Series60/5.3 Nokia700/111.020.0308; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.4.1.14 Mobile Safari/533.4 3gpp-gba
+NokiaX2-02/2.0 (11.79) Profile/MIDP-2.1 Configuration/CLDC-1.1,gzip(gfe) Google
+NokiaX2-02/2.0 (11.79) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia113/2.0 (03.24) Profile/MIDP-2.1 Configuration/CLDC-1.1
+nokiac3-00/5.0 (07.20) profile/midp-2.1 configuration/cldc-1.1 mozilla/5.0 applewebkit/420+ (khtml, like gecko) safari/420+
+Nokia6700c-1/2.0 (07.90) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+
+NokiaC3-00/5.0 (08.63) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+
+Nokia6303classic/2.0 (10.12) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+
+Nokia302/5.0 (14.26) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+
+NokiaX2-01/5.0 (07.10) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+
+NokiaC3-00/5.0 (08.70) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+
+Mozilla/5.0 (Symbian/3; Series60/5.2 NokiaN8-00/014.002; Profile/MIDP-2.1 Configuration/CLDC-1.1; en-us) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.2.6.4 3gpp-gba
+Mozilla/5.0 (MeeGo; NokiaN9) AppleWebKit/534.13 (KHTML, like Gecko) NokiaBrowser/8.5.0 Mobile Safari/534.13
+NokiaC2-01/5.0 (11.10) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+
+Nokia6303iclassic/5.0 (07.10) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+
+Mozilla/5.0 (Symbian/3; Series60/5.5 Nokia808PureView/113.010.1507; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/535.1 (KHTML, like Gecko) NokiaBrowser/8.3.2.21 Mobile Safari/535.1 3gpp-gba
+Mozilla/5.0 (Symbian/3; Series60/5.2 NokiaC7-00/012.003; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.2.7.3 3gpp-gba
+NokiaX3-02.5/5.0 (06.75) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420  (KHTML, like Gecko) Safari/420
+Mozilla/5.0 (Symbian/3; Series60/5.3 Nokia500/111.020.0067; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.4.2.7 Mobile Safari/533.4 3gpp-gba
+NOKIA5700/ UCWEB7.0.2.37/28/999
+Mozilla/5.0 (SymbianOS/9.4; Series60/5.0 NokiaN97-1/20.0.019; Profile/MIDP-2.1 Configuration/CLDC-1.1) AppleWebKit/525 (KHTML, like Gecko) BrowserNG/7.1.18124
+Nokia210.2/2.0 (06.09) Profile/MIDP-2.1 Configuration/CLDC-1.1 Google
+NokiaC2-05/2.0 (08.60) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia309/2.0 (08.22) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Mozilla/5.0 (SymbianOS/9.2; U; Series60/3.1 NokiaN95_8GB/15.0.015; Profile/MIDP-2.0 Configuration/CLDC-1.1 ) AppleWebKit/413 (KHTML, like Gecko) Safari/413
+Mozilla/5.0 (SymbianOS/9.4; Series60/5.0 NokiaC5-03/21.0.003; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.1.30 Mobile Safari/533.4 3gpp-gba
+Nokia203/2.0 (20.26) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaX2-00/5.0 (04.80) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420  (KHTML, like Gecko) Safari/420
+Nokia113/2.0 (03.32) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia302/5.0 (14.23) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420  (KHTML, like Gecko) Safari/420
+Nokia6111/2.0 (03.58) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia306/2.0 (03.81) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Mozilla/5.0 (Symbian/3; Series60/5.3 NokiaC7-00/111.040.1511; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/535.1 (KHTML, like Gecko) NokiaBrowser/8.3.1.4 Mobile Safari/535.1 3gpp-gba
+Mozilla/5.0 (SymbianOS/9.2; U; Series60/3.1 NokiaE71-1/200.21.118; Profile/MIDP-2.0 Configuration/CLDC-1.1 ) AppleWebKit/413 (KHTML, like Gecko) Safari/413
+Mozilla/5.0 (SymbianOS/9.2; U; Series60/3.1 NokiaN95_8GB/31.0.015; Profile/MIDP-2.0 Configuration/CLDC-1.1 ) AppleWebKit/413 (KHTML, like Gecko) Safari/413
+Nokia2680s-2/1.0 (05.28) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Mozilla/5.0 (Symbian/3; Series60/5.2 NokiaX7-00/024.001; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.1.37 Mobile Safari/533.4 3gpp-gba
+Mozilla/5.0 (SymbianOS/9.4; Series60/5.0 NokiaN97-4/12.0.110; Profile/MIDP-2.1 Configuration/CLDC-1.1) AppleWebKit/525 (KHTML, like Gecko) BrowserNG/7.1.4
+Nokia6280/2.0 (03.60) Profile/MIDP-2.0 Configuration/CLDC-1.1
+NokiaC3-00/5.0 (03.36) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420  (KHTML, like Gecko) Safari/420
+Nokia2690/2.0 (09.90) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Mozilla/5.0 (SymbianOS/9.2; U; Series60/3.1 NokiaN82/31.0.016; Profile/MIDP-2.0 Configuration/CLDC-1.1 ) AppleWebKit/413 (KHTML, like Gecko) Safari/413
+Nokia306/2.0 (03.81) Profile/MIDP-2.1 Configuration/CLDC-1.1 Google
+Nokia309/2.0 (05.85) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia311/5.0 (03.90) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420  (KHTML, like Gecko) Safari/420
+Nokia501s/2.0 (10.0.12) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia503s/2.0 (12.0.23) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Mozilla/5.0 (Symbian/3; Series60/5.2 NokiaX7-00/021.004; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.1.21 Mobile Safari/533.4 3gpp-gba
+Nokia6300/2.0 (06.60) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia309/2.0 (05.80) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia308/2.0 (07.55) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Mozilla/5.0 (SymbianOS/9.4; Series60/5.0 NokiaC5-03/23.0.015; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.1.33 Mobile Safari/533.4 3gpp-gba
+Nokia6280/2.0 (03.60) Profile/MIDP-2.0 Configuration/CLDC-1.1,gzip(gfe)
+Mozilla/5.0 (SymbianOS/9.4; Series60/5.0 NokiaC6-00/20.0.042; Profile/MIDP-2.1 Configuration/CLDC-1.1; zh-hk) AppleWebKit/525 (KHTML, like Gecko) BrowserNG/7.2.6.9 3gpp-gba 88XI4n5O
+Nokia205/2.0 (03.21) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Mozilla/5.0 (SymbianOS/9.4; Series60/5.0 NokiaC6-00/20.0.042; Profile/MIDP-2.1 Configuration/CLDC-1.1) AppleWebKit/525 (KHTML, like Gecko) BrowserNG/7.2.6.9 3gpp-gba
+Mozilla/5.0 (SymbianOS/9.4; Series60/5.0 Nokia5230/21.0.004; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.2.5.2 3gpp-gba
+Mozilla/5.0 (Symbian/3; Series60/5.2 Nokia500/010.029; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.1.37 Mobile Safari/533.4 3gpp-gba
+Nokia6288/2.0 (06.10) Profile/MIDP-2.0 Configuration/CLDC-1.1 Google
+Nokia201/2.0 (11.21) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaC6-00/10.0.021 (SymbianOS/9.4; Series60/5.0 Mozilla/5.0; Profile/MIDP-2.1 Configuration/CLDC-1.1) AppleWebkit/525 (KHTML, like Gecko) BrowserNG/7.2.6 UNTRUSTED/1.0 3gpp-gba 88XI4n5O
+Nokia210.4/2.0 (04.12) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Mozilla/5.0 (Symbian/3; Series60/5.2 NokiaN8-00/014.002; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.2.8.10 3gpp-gba
+Nokia306/2.0 (03.63) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaC2-00/2.0 (03.45) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Mozilla/5.0 (SymbianOS/9.3; Series60/3.2 NokiaE72-1/031.023; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.2.3.1
+Mozilla/5.0 (Linux; Android 4.1.2; Nokia_X Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.82 Mobile Safari/537.36 NokiaBrowser/1.0.1.54
+Mozilla/5.0 (Symbian/3; Series60/5.2 NokiaN8-00/012.002; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.0 Mobile Safari/533.4 3gpp-gba
+Nokia5250/10.0.011 (SymbianOS/9.4; U; Series60/5.0 Mozilla/5.0; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Safari/525 3gpp-gba
+Nokia6303classic/2.0 (06.40) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+
+Nokia7250/1.0 (3.14) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Nokia202/2.0 (20.52) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaX2-02/2.0 (11.79) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2;.NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2) UCBrowser8.4.0.159/70/352
+Mozilla/5.0 (SymbianOS/9.2; U; Series60/3.1 NokiaE90-1/07.24.0.3; Profile/MIDP-2.0 Configuration/CLDC-1.1 ) AppleWebKit/413 (KHTML, like Gecko) Safari/413 UP.Link/6.2.3.18.0
+Mozilla/5.0 (SymbianOS/9.1; U; en-us) AppleWebKit/413 (KHTML, like Gecko) Safari/413
+Mozilla/5.0 (SymbianOS/9.1; U; en-us) AppleWebKit/413 (KHTML, like Gecko) Safari/413 es70
+Mozilla/5.0 (SymbianOS/9.4; Series60/5.0 Nokia5800d-1/60.0.003; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.1.33 Mobile Safari/533.4
+Mozilla/5.0 (SymbianOS/9.4; Series60/5.0 Nokia5228/40.1.003; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.2.7.4 3gpp-gba Google
+Nokia205.1/2.0 (04.51) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1id; Nokia205.1) Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1/9.5.0.449Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1 UNTRUSTED/1.0
+Nokia302/5.0 (14.78) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+
+Mozilla/5.0 (Symbian/3; Series60/5.2 NokiaC6-01/011.010; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.2.7.2 3gpp-gba
+NokiaX2-01/5.0 (08.63) Profile/MIDP-2.1 Configuration/CLDC-1.1 UCWEB/2.0 (Java; U; MIDP-2.0; en-US; nokiax2-01) U2/1.0.0 UCBrowser/8.9.0.251 U2/1.0.0 Mobile UNTRUSTED/1.0
+NokiaX2-02/2.0 (11.84) Profile/MIDP-2.1 Configuration/CLDC-1.1 UCWEB/2.0(Java; U; MIDP-2.0; en-us; nokiax2-02) U2/1.0.0 UCBrowser/8.7.1.234 U2/1.0.0 Mobile UNTRUSTED/1.0
+Nokia205.1/2.0 (04.51) Profile/MIDP-2.1 Configuration/CLDC-1.1  UNTRUSTED/1.0
+NokiaC1-01/2.0 (06.15) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Java; U; en-us; nokiac1-01) UCBrowser8.2.1.144/69/352/UCWEB Mobile UNTRUSTED/1.0
+Mozilla/5.0 (SymbianOS/9.2; U; Series60/3.1 Nokia6120c/7.20; Profile/MIDP-2.0 Configuration/CLDC-1.1 ) AppleWebKit/413 (KHTML, like Gecko) Safari/413
+Mozilla/5.0 (SymbianOS/9.2; U; Series60/3.1 NokiaE71-1/510.21.009; Profile/MIDP-2.0 Configuration/CLDC-1.1 ) AppleWebKit/413 (KHTML, like Gecko) Safari/413
+Mozilla/5.0 (SymbianOS/9.4; Series60/5.0 Nokia5230/40.0.003; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.2.7.4 3gpp-gba
+Mozilla/5.0 (SymbianOS/9.2; U; Series60/3.1 Nokia6120c/3.70; Profile/MIDP-2.0 Configuration/CLDC-1.1) AppleWebKit/413 (KHTML, like Gecko) Safari/413
+NokiaX2-02/2.0 (11.84) Profile/MIDP-2.1 Configuration/CLDC-1.1 UCWEB/2.0(Java; U; MIDP-2.0; en-us; nokiax2-02) U2/1.0.0 UCBrowser/8.7.0.218 U2/1.0.0 Mobile UNTRUSTED/1.0
+Nokia6681/2.0 (4.00.15) SymbianOS/8.0 Series60/2.6 Profile/MIDP-2.0 Configuration/CLDC-1.19.80400
+Nokia301/2.0 (02.33) Profile/MIDP-2.1 Configuration/CLDC-1.1  UNTRUSTED/1.0
+Nokia206/2.0 (04.51) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Mozilla/5.0 (SymbianOS/9.4; Series60/5.5 NokiaE5-00/101.003; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/537.36 (KHTML, like Gecko) NokiaBrowser/8.3.2.21 Mobile Safari/537.36 3gpp-gba
+Nokia6101/2.0 (03.35) Profile/MIDP-2.0 Configuration/CLDC-1.1 (Google WAP Proxy/1.0)
+Mozilla/5.0 (SymbianOS/9.2; U; Series60/3.1 NokiaE66-1/410.21.010; Profile/MIDP-2.0 Configuration/CLDC-1.1 ) AppleWebKit/413 (KHTML, like Gecko) Safari/413
+Nokia3500c/2.0 (07.21) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Mozilla/5.0 (SymbianOS/9.4; U; Series60/5.0 Nokia5800d-1/51.0.006; Profile/MIDP-2.1 Configuration/CLDC-1.1; ru) AppleWebKit/525 (KHTML, like Gecko) BrowserNG/7.2.5.2
+Mozilla/5.0 (SymbianOS/9.3; Series60/3.2 Nokia6700s/062.001; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.2.6.2 3gpp-gba
+Mozilla/5.0 (Symbian/3; Series60/5.2 NokiaE7-00/010.016; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.2.7.3 3gpp-gba
+NokiaN73-1/3.0649.0.0.1 Series60/3.0 Profile/MIDP2.0 Configuration/CLDC-1.1
+Mozilla/5.0 (Symbian/3; Series60/5.2 NokiaE6-00/021.002; Profile/MIDP-2.1 Configuration/CLDC-1.1) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.1.16 Mobile Safari/533.4 3gpp-gba
+Nokia515/2.0 (10.34) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+Mozilla/5.0 (SymbianOS/9.4; Series60/5.0 Nokia5800d-1/111.050.1511; Profile/MIDP-2.1 Configuration/CLDC-1.1) AppleWebKit/533.4 (KHTML, xHTML, HTML, Like Gecko) NokiaBrowser/8.3.7.4 Mobile Safari/533.4 3gpp-gba
+Nokia6230i/2.0 (03.80) Profile/MIDP-2.0 Configuration/CLDC-1.1
+Mozilla/5.0 (MeeGo; NokiaN950-00/00) AppleWebKit/534.13 (KHTML, like Gecko) NokiaBrowser/8.5.0 Mobile Safari/534.13
+Mozilla/5.0 (SymbianOS/9.1; U; de) AppleWebKit/413 (KHTML, like Gecko) Safari/413
+Nokia3230/2.0 (5.0614.0) SymbianOS/7.0s Series60/2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0
+NokiaE63/210.21.004 (SymbianOS/9.2; U; Series60/3.1 Mozilla/5.0; Profile/MIDP-2.0 Configuration/CLDC-1.1 ) AppleWebKit/413 (KHTML, like Gecko) Safari/413
+Nokia501/2.0 (10.0.14) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Mozilla/5.0 (SymbianOS/9.1; U; en-us) AppleWebKit/413 (KHTML, like Gecko) Safari/413 es50
+NokiaN90-1/3.0545.5.1 Series60/2.8 Profile/MIDP-2.0 Configuration/CLDC-1.1 (en-US; rv:9.3.3) Clecko/20141026 Classilla/CFM
+NokiaC2-03/2.0 (07.48) Profile/MIDP-2.1 Configuration/CLDC-1.1 UCWEB/2.0 (Java; U; MIDP-2.0; en-US; nokiac2-03) U2/1.0.0 UCBrowser/8.9.0.251 U2/1.0.0 Mobile UNTRUSTED/1.0
+Nokia6700c-1/2.0 (13.10) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+
+Mozilla/5.0 (SymbianOS/9.2; U; Series60/3.1 NokiaN95/31.0.017; Profile/MIDP-2.0 Configuration/CLDC-1.1 ) AppleWebKit/413 (KHTML, like Gecko) Safari/413
+Mozilla/5.0 (SymbianOS/9.2; U; Series60/3.1 NokiaN95/10.0.018; Profile/MIDP-2.0 Configuration/CLDC-1.1) AppleWebKit/413 (KHTML, like Gecko) Safari/413 UP.Link/6.3.0.0
+Mozilla/5.0 (SymbianOS/9.2; U; Series60/3.1 NokiaN95/10.0.018; Profile/MIDP-2.0 Configuration/CLDC-1.1) AppleWebKit/413 (KHTML, like Gecko) Safari/413 UP.Link/6
+Mozilla/5.0 (SymbianOS/9.2; U; Series60/3.1 NokiaN95/10.0.018; Profile/MIDP-2.0 Configuration/CLDC-1.1) AppleWebKit/413 (KHTML, like Gecko) Safari/413 UP.Link/
+Mozilla/5.0 (SymbianOS/9.2; U; Series60/3.1 NokiaN95/10.0.018; Profile/MIDP-2.0 Configuration/CLDC-1.1) AppleWebKit/413 (KHTML, like Gecko) Safari/413 UP.Lin
+Mozilla/5.0 (SymbianOS/9.2; U; Series60/3.1 NokiaN95/10.0.018; Profile/MIDP-2.0 Configuration/CLDC-1.1) AppleWebKit/413 (KHTML, like Gecko) Safari/413
+Mozilla/5.0 (SymbianOS/9.2; U; Series60/3.1 NokiaN95/10.0.018; Profile/MIDP-2.0 Configuration/CLDC-1.1) AppleWebKit/413 (KHTML, like Gecko) Safari
+Mozilla/5.0 (SymbianOS/9.2; U; Series60/3.1 NokiaN95/10.0.018; Profile/MIDP-2.0) AppleWebKit/413 (KHTML, like Gecko) Safari/413 UP.Link/6.3.0.0.0
+Mozilla/5.0 (SymbianOS/9.2; U; Series60/3.1 NokiaN95/10.0.018) AppleWebKit/413 (KHTML, like Gecko) Safari/413 UP.Link/6.3.0.0.0
+Mozilla/5.0 (SymbianOS/9.2; U; NokiaN95/10.0.018) AppleWebKit/413 (KHTML, like Gecko) Safari/413 UP.Link/6.3.0.0.0
+NokiaN95/10.0.018
+NokiaC2-01/5.0 (11.20) Profile/MIDP-2.1 Configuration/CLDC-1.1  UNTRUSTED/1.0
+Mozilla/5.0 (SymbianOS/9.2; U; Series60/3.1 Nokia5700/3.27; Profile/MIDP-2.0 Configuration/CLDC-1.1) AppleWebKit/413 (KHTML, like Gecko) Safari/413
+Mozilla/5.0 (SymbianOS/9.4; Series60/5.0 Nokia5233/51.1.002; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.1.33 Mobile Safari/533.4 3gpp-gba
+NokiaX2-02/2.0 (11.79) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Java; U; en-us; nokiax2-02) UCBrowser8.3.1.161/70/405/UCWEB Mobile UNTRUSTED/1.0
+NokiaX2-02/2.0 (10.90) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia6630/1.0 (2.3.129) SymbianOS/8.0 Series60/2.6 Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia6100/1.0 (04.01) Profile/MIDP-1.0 Configuration/CLDC-1.0
+NokiaE5-00/SymbianOS/9.1 Series60/3.0 3gpp-gba
+Nokia3208c/2.0 (09.25) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia1122/2.0 (03.58) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia6100/1.0 (04.01) Profile/MIDP-1.0 Configuration/CLDC-31.0(Linux LLC 1.2)
+Mozilla/5.0 (Linux; Android 4.1.2; Nokia_X Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.87.90 Mobile Safari/537.36 NokiaBrowser/1.0,gzip(gfe)
+NokiaX2-01/5.0 (08.70) Profile/MIDP-2.1 Configuration/CLDC-1.1 UCWEB/2.0 (Java; U; MIDP-2.0; en-US; nokiax2-01) U2/1.0.0 UCBrowser/8.9.0.251 U2/1.0.0 Mobile UNTRUSTED/1.0
+Mozilla/5.0 (SymbianOS/9.3; Series60/3.2 NokiaE72-1/021.024; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.1.19424
+Nokia 3310 3G/2.0(p)Profile/MIDP-2.0 Configration/CLDC-1.1
+Mozilla/5.0 (Symbian/3; Series60/5.3 NokiaE7-00/111.040.1511; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/535.1 (KHTML, like Gecko) NokiaBrowser/8.3.1.4 Mobile Safari/535.1 3gpp-gba
+NokiaC2-05/2.0 (08.30) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia6630/1.0 (2.3.129) SymbianOS/8.0 Series60/2.6 Profile/MIDP-2.0 Configuration/CLDC-1.1 [ip:213.32.4.247]
+NOKIAE5-00/UCWEB8.9.0.253/28/999
+Mozilla/5.0 (Symbian/3; Series60/5.2 NokiaE7-00/010.016; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.2.7.3 3gpp-gba [ip:213.32.4.115]
+Mozilla/5.0 (SymbianOS/9.1; U; en-us) AppleWebKit/413 (KHTML, like Gecko) Safari/413 es70 [ip:213.32.4.224]
+NokiaX2-02/2.0 (11.84) Profile/MIDP-2.1 Configuration/CLDC-1.1 UCWEB/2.0(Java; U; MIDP-2.0; ar-sa; nokiax2-02) U2/1.0.0 UCBrowser/8.7.0.218 U2/1.0.0 Mobile UNTRUSTED/1.0
+NokiaE50-1/3.0 (06.41.3.0) SymbianOS/9.1 Series60/3.0 Profile/MIDP-2.0 Configuration/CLDC-1.1
+Mozilla/5.0 (SymbianOS/9.4; Series60/5.0 NokiaN97-1/12.0.026; Profile/MIDP-2.1 Configuration/CLDC-1.1; en-us) AppleWebKit/525 (KHTML, like Gecko) BrowserNG/7.1.13841
+Mozilla/5.0 (SymbianOS/9.4; U; Series60/5.0 Nokia5800d-1/30.0.011; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/413 (KHTML, like Gecko) Safari/413
+Nokia5310XpressMusic/2.0 (05.81) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia5310XpressMusic/2.0 (03.60) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Mozilla/5.0 (SymbianOS/9.4; U; Series60/5.0 Nokia5800d-1/40.0.005; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/413 (KHTML, like Gecko) Safari/413
+Mozilla/5.0 (SymbianOS/9.2; U; Series60/3.1 Nokia6120c/4.21; Profile/MIDP-2.0 Configuration/CLDC-1.1 ) AppleWebKit/413 (KHTML, like Gecko) Safari/413
+Mozilla/5.0 (SymbianOS/9.3; Series60/3.2 NokiaE72-1/022.007; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.1.19974
+Mozilla/5.0 (SymbianOS/9.4; Series60/5.0 Nokia5800d-1/51.0.006; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.2.5.2 3gpp-gba
+Mozilla/5.0 (SymbianOS/9.3; Series60/3.2 NokiaE52-1/054.003; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.2.6.2 3gpp-gba
+Mozilla/5.0 (SymbianOS/9.4; U; Series60/5.0 Nokia5800d-1/20.0.012; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/413 (KHTML, like Gecko) Safari/413
+Mozilla/5.0 (SymbianOS/9.2; U; Series60/3.1 NokiaE66-1/500.21.009; Profile/MIDP-2.0 Configuration/CLDC-1.1 ) AppleWebKit/413 (KHTML, like Gecko) Safari/413
+Nokia6500c/2.0 (09.48) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Mozilla/5.0 (SymbianOS/9.2; U; Series60/3.1 Nokia6120c/6.01; Profile/MIDP-2.0 Configuration/CLDC-1.1 ) AppleWebKit/413 (KHTML, like Gecko) Safari/413
+Mozilla/5.0 (SymbianOS/9.3; Series60/3.2 NokiaE52-1/091.003; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.1.34 Mobile Safari/533.4 3gpp-gba
+Mozilla/5.0 (SymbianOS/9.2; U; Series60/3.1 NokiaE66-1/210.21.007; Profile/MIDP-2.0 Configuration/CLDC-1.1 ) AppleWebKit/413 (KHTML, like Gecko) Safari/413
+Mozilla/5.0 (Symbian/3; Series60/5.2 NokiaC7-00/014.002; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.2.8.10 3gpp-gba
+Mozilla/5.0 (SymbianOS/9.4; Series60/5.0 NokiaN97-4/10.0.020; Profile/MIDP-2.1 Configuration/CLDC-1.1) AppleWebKit/525 (KHTML, like Gecko) BrowserNG/7.1.18124
+Mozilla/5.0 (SymbianOS/9.3; Series60/3.2 NokiaE52-1/022.009; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.1.19424
+NokiaN70-1/5.0638.3.0.1 Series60/2.8 Profile/MIDP-2.0 Configuration/CLDC-1.1
+Mozilla/5.0 (SymbianOS/9.3; Series60/3.2 Nokia6730c/023.010; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.1.19424
+Mozilla/5.0 (SymbianOS/9.3; Series60/3.2 NokiaE52-1/034.001; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.1.5
+Mozilla/5.0 (SymbianOS/9.4; U; Series60/5.0 Nokia5230/12.0.089; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/413 (KHTML, like Gecko) Safari/413
+Mozilla/5.0 (SymbianOS/9.4; Series60/5.0 Nokia5530c-2/31.0.005; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.2.5.2 3gpp-gba
+Mozilla/5.0 (Symbian/3; Series60/5.2 Nokia500/011.033; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.1.37 Mobile Safari/533.4 3gpp-gba
+Mozilla/5.0 (SymbianOS/9.4; U; Series60/5.0 Nokia5530c-2/20.0.080; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Safari/525
+Mozilla/5.0 (SymbianOS/9.4; Series60/5.0 NokiaC5-03/11.0.024; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.2.6.9 3gpp-gba
+Nokia205/2.0 (03.19) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaX3-02.5/5.0 (07.32) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+
+Mozilla/5.0 (SymbianOS/9.3; Series60/3.2 NokiaE52-1/033.002; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.1.5
+Mozilla/5.0 (SymbianOS/9.4; Series60/5.0 NokiaC6-00/40.0.021; Profile/MIDP-2.1 Configuration/CLDC-1.1) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.1.25 3gpp-gba
+Mozilla/5.0 (SymbianOS/9.3; Series60/3.2 NokiaE72-1/052.005; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.2.6.2 3gpp-gba
+Mozilla/5.0 (Symbian/3; Series60/5.3 NokiaE6-00/111.140.0058; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/535.1 (KHTML, like Gecko) NokiaBrowser/8.3.1.4 Mobile Safari/535.1 3gpp-gba
+Mozilla/5.0 (SymbianOS/9.4; U; Series60/5.0 Nokia5530c-2/11.0.054; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Safari/525
+Mozilla/5.0 (SymbianOS/9.2; U; Series60/3.1 NokiaN95/20.0.015; Profile/MIDP-2.0 Configuration/CLDC-1.1 ) AppleWebKit/413 (KHTML, like Gecko) Safari/413
+Mozilla/5.0 (SymbianOS/9.3; Series60/3.2 NokiaC5-00/032.010; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.2.5.2
+Mozilla/5.0 (SymbianOS/9.4; Series60/5.0 Nokia5800d-1/60.0.003; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.1.33 Mobile Safari/533.4 3gpp-gba
+Mozilla/5.0 (SymbianOS/9.4; Series60/5.0 NokiaC6-00/41.0.010; Profile/MIDP-2.1 Configuration/CLDC-1.1) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.1.31 3gpp-gba
+Mozilla/5.0 (SymbianOS/9.4; U; Series60/5.0 NokiaX6-00/11.0.077; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/413 (KHTML, like Gecko) Safari/413
+Mozilla/5.0 (SymbianOS/9.4; Series60/5.0 NokiaX6-00/30.0.003; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.2.6.6 3gpp-gba
+Mozilla/5.0 (Symbian/3; Series60/5.2 NokiaC6-01.3/014.002; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.2.8.10 3gpp-gba
+Mozilla/5.0 (Linux; Android 4.1.2; Nokia_X Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.82 Mobile Safari/537.36 NokiaBrowser/1.2.0.11
+Mozilla/5.0 (SymbianOS/9.4; U; Series60/5.0 Nokia5230/10.0.067; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/413 (KHTML, like Gecko) Safari/413
+Mozilla/5.0 (Symbian/3; Series60/5.3 NokiaE7-00/111.030.0609; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.4.2.6 Mobile Safari/533.4 3gpp-gba
+Mozilla/5.0 (Symbian/3; Series60/5.3 NokiaN8-00/111.040.0704; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/535.1 (KHTML, like Gecko) NokiaBrowser/7.4.2.6 Mobile Safari/535.1 3gpp-gba
+Mozilla/5.0 (SymbianOS/9.4; Series60/5.0 NokiaC6-00/42.0.004; Profile/MIDP-2.1 Configuration/CLDC-1.1) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.1.33 3gpp-gba
+Mozilla/5.0 (SymbianOS/9.4; U; Series60/5.0 Nokia5800d-1/31.0.101; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/413 (KHTML, like Gecko) Safari/413
+Mozilla/5.0 (SymbianOS/9.3; Series60/3.2 Nokia6700s/071.004; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.1.26 Mobile Safari/533.4 3gpp-gba
+Mozilla/5.0 (SymbianOS/9.3; Series60/3.2 NokiaE72-1/081.003; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.1.32 Mobile Safari/533.4 3gpp-gba
+NokiaC2-01/5.0 (11.10) Profile/MIDP-2.1 Configuration/CLDC-1.1 UCWEB/2.0 (Java; U; MIDP-2.0; ru; nokiac2-01) U2/1.0.0 UCBrowser/8.9.0.251 U2/1.0.0 Mobile UNTRUSTED/1.0
+Nokia300/5.0 (07.03) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+
+Mozilla/5.0 (Symbian/3; Series60/5.3 Nokia500/111.020.0059; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.4.2.6 Mobile Safari/533.4 3gpp-gba
+Mozilla/5.0 (SymbianOS/9.4; Series60/5.0 Nokia5530c-2/32.0.007; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.2.6.9 3gpp-gba
+Mozilla/5.0 (SymbianOS/9.3; U; Series60/3.2 NokiaN79-1/20.174; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/413 (KHTML, like Gecko) Safari/413
+Mozilla/5.0 (SymbianOS/9.4; Series60/5.0 NokiaX6-00/21.0.004; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.2.5.2 3gpp-gba
+Mozilla/5.0 (SymbianOS/9.3; U; Series60/3.2 Nokia6650fold/04.18; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/413 (KHTML, like Gecko) Safari/413
+Mozilla/5.0 (SymbianOS/9.4; Series60/5.0 Nokia5228/40.1.003; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.2.7.4 3gpp-gba
+Mozilla/5.0 (Symbian/3; Series60/5.2 NokiaC7-00/012.004; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.2.7.3 3gpp-gba
+Mozilla/5.0 (Symbian/3; Series60/5.3 Nokia700/111.030.0609; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.4.2.6 Mobile Safari/533.4 3gpp-gba
+Mozilla/5.0 (SymbianOS/9.4; U; Series60/5.0 NokiaX6-00/12.0.091; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/413 (KHTML, like Gecko) Safari/413
+NokiaC3-01/5.0 (07.15) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+
+Mozilla/5.0 (Symbian/3; Series60/5.2 NokiaN8-00/011.012; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.2.7.2 3gpp-gba
+Mozilla/5.0 (Symbian/3; Series60/5.2 NokiaN8-00/022.014; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.1.37 Mobile Safari/533.4 3gpp-gba
+Mozilla/5.0 (Symbian/3; Series60/5.3 Nokia603/111.030.0609; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.4.2.6 Mobile Safari/533.4 3gpp-gba
+Mozilla/5.0 (SymbianOS/9.2; U; Series60/3.1 Nokia6120c/5.11; Profile/MIDP-2.0 Configuration/CLDC-1.1 ) AppleWebKit/413 (KHTML, like Gecko) Safari/413
+Mozilla/5.0 (SymbianOS/9.2; U; Series60/3.1 NokiaE71-1/210.21.006; Profile/MIDP-2.0 Configuration/CLDC-1.1 ) AppleWebKit/413 (KHTML, like Gecko) Safari/413
+Mozilla/5.0 (SymbianOS/9.2; U; Series60/3.1 NokiaN81-1/20.0.056 Profile/MIDP-2.0 Configuration/CLDC-1.1 ) AppleWebKit/413 (KHTML, like Gecko) Safari/413
+Mozilla/5.0 (SymbianOS/9.3; Series60/3.2 NokiaE5-00/042.014; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.2.6.2 3gpp-gba
+Mozilla/5.0 (SymbianOS/9.4; Series60/5.0 Nokia5530c-2/30.0.009; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.2.3
+Mozilla/5.0 (SymbianOS/9.4; Series60/5.0 NokiaC5-06/20.6.039; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.1.27 Mobile Safari/533.4 3gpp-gba
+Nokia303/5.0 (14.60) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+
+Nokia6555/2.0 (03.31) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaX2-00/5.0 (08.17) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+
+Mozilla/5.0 (SymbianOS/9.4; Series60/5.0 NokiaC6-00/11.0.029; Profile/MIDP-2.1 Configuration/CLDC-1.1) AppleWebKit/525 (KHTML, like Gecko) BrowserNG/7.2.6.9 3gpp-gba
+Nokia5220XpressMusic/2.0 (04.00) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia6303iclassic/5.0 (09.83) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+
+Mozilla/5.0 (Symbian/3; Series60/5.2 NokiaN8-00/013.016; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.2.8.10 3gpp-gba
+Nokia3720c/2.0 (10.16) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Java; U; ru; nokia3720c) AppleWebKit/530.13 (KHTML, like Gecko) UCBrowser/8.5.0.185/83/352/UCWEB Mobile
+Nokia5300/2.0 (05.00) Profile/MIDP-2.0 Configuration/CLDC-1.1 Mozilla/5.0 (Windows; U; Windows 7; rv:11.1) Gecko/20100101 firefox/11.0 UNTRUSTED/1.0
+NokiaC2-01/5.0 (11.40) Profile/MIDP-2.1 Configuration/CLDC-1.1 UCWEB/2.0 (Java; U; MIDP-2.0; ar-SA; nokiac2-01) U2/1.0.0 UCBrowser/8.9.0.251 U2/1.0.0 Mobile UNTRUSTED/1.0
+NokiaC1-01/2.0 (05.40) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaC1-01/2.0 (05.40) Profile/MIDP-2.1 Configuration/CLDC-1.1 UCWEB/2.0 (Java; U; MIDP-2.0; en-US; nokiac1-01) U2/1.0.0 UCBrowser/8.9.0.251 U2/1.0.0 Mobile UNTRUSTED/1.0
+NokiaBrowser/7.4.2.6
+NokiaBrowser/8.5.0
+Mozilla/5.0 (MeeGoNokiaN9) AppleWebKit/534.13 (KHTML, like Gecko) NokiaBrowser/8.5.0 Mobile Safari/534.13
+Nokia302/5.0 (14.53) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+
+nokia 6280/2.0(03.60)/profile/midp-1.0;configuration/cldc-1.0
+NokiaN97/21.1.107 (SymbianOS/9.4; Series60/5.0 Mozilla/5.0; Profile/MIDP-2.1 Configuration/CLDC-1.1) AppleWebkit/525 (KHTML, like Gecko) BrowserNG/7.1.4
+Nokia5310XpressMusic/1.0 Profile/MIDP-2.1 Configuration/CLDC-1.1
+Nokia5250/8.0.06 (SymbianOS/9.8; U; Series60/4.0 Mozilla/5.0; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/600 (KHTML, like Gecko) Safari/600 3gpp-gba
+Nokia5250/10.0.08 (SymbianOS/8.9; U; Series60/4.0 Mozilla/5.0; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/536 (KHTML, like Gecko) Safari/536 3gpp-gba
+Nokia5250/10.0.012 (SymbianOS/7.1; U; Series60/5.0 Mozilla/5.0; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/567 (KHTML, like Gecko) Safari/567 3gpp-gba
+Nokia5130c-2/2.0 (07.97) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/4.0 (compatible; MSIE 4.0; ) Opera/UCWEB8.2.0.116/69/352 UNTRUSTED/1.0
+Nokia6600/1.0 (5.53.0) SymbianOS/7.0s Series60/2.0 Profile/MIDP-2.0 Configuration/CLDC-1.0
+NokiaC2-00/2.0 (03.45) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Java; U; kau; nokiac2-00) UCBrowser8.3.0.154/69/352/UCWEB Mobile UNTRUSTED/1.0
+NokiaC2-00/2.0 (03.45) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Java; U; kau; nokiac2-00) UCBrowser8.3.0.154/70/352/UCWEB Mobile
+Nokia201/2.0 (11.95) Profile/MIDP-2.1 Configuration/CLDC-1.1
+Mozilla/5.0 (SymbianOS/9.3; Series60/3.2 NokiaE5-00/042.007; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.2.6.2 3gpp-gba
+Nokia5250/8.0.07 (SymbianOS/9.5; U; Series60/4.0 Mozilla/5.0; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/551 (KHTML, like Gecko) Safari/551 3gpp-gba
+Mozilla/5.0 (Nokia6600s/2.0 (p) Profile/ MIDP-2.1 Configuration/CLDC-1.1) AppleWebKit/413 (KHTML, Like Gecko) Safari/413 UCBrowser/10.4.2.659 Mobile
+NokiaC5-00/GoBrowser/2.0.290
+NokiaC5-00/061.005 (SymbianOS/9.3; U; Series60/3.2 Mozilla/5.0; Profile/MIDP-2.1 Configuration/CLDC-1.1) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 Safari/525 3gpp-gba
+NokiaN79/GoBrowser/1.6.0.48-cn
+NokiaE5-00/GoBrowser/1.6.86
+Nokia5230/GoBrowser/1.6.0.70
+Nokia5320XpressMusic/GoBrowser/1.6.0.75
+NokiaX6/GoBrowser
+Nokia6120c/GoBrowser/1.6.86
+NokiaN86_8MP/GoBrowser/1.6.0.4868.208.92;
+Mozilla/5.0 (SymbianOS/9.3; Series60/3.2 NokiaE52-1/052.003; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.2.6.2 3gpp-gba
+NokiaN81/GoBrowser
+NokiaN82/GoBrowser/1.6.86
+NokiaE72/GoBrowser/1.6.91
+NokiaE66/GoBrowser/2.0.297
+NokiaE1/GoBrowser/2.0.297
+Nokia110/1.0 (02.47) Profile/MIDP-1.0 Configuration/CLDC-1.0
+Mozilla/5.0 (SymbianOS/9.4; Series60/5.0 Nokia5233/51.1.002; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.1.33 Mobile Safari/533.4
+NokiaBrowser/1.0
+NokiaC1-01/2.0 (05.45) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Java; U; en-us; nokiac1-01) UCBrowser8.2.1.144/70/355/UCWEB Mobile
+Nokia6610/1.0 (3.09) Profile/MIDP-1.0 Configuration/CLDC-1.0 (compatible;YahooSeeker/M1A1-R2D2; http://help.yahoo.com/help/us/ysearch/crawling/crawling-01.html)
+Nokia 7110/1.0
+NokiaC3-00/5.0 (07.80) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+
+Mozilla/5.0 (Maemo; Linux; Jolla; Sailfish; Mobile) AppleWebKit/534.13 (KHTML, like Gecko) NokiaBrowser/8.5.0 Mobile Safari/534.13
+Nokia200/2.0 (11.56) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaX2-00/5.0 (08.35) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Java; U; en-us; nokiax2-00) UCBrowser8.3.0.154/69/444/UCWEB Mobile UNTRUSTED/1.0
+NokiaX2-02/2.0 (10.90) Profile/MIDP-2.1 Configuration/CLDC-1.1 UCWEB/2.0 (Java; U; MIDP-2.0; en-US; nokiax2-02) U2/1.0.0 UCBrowser/8.9.0.251 U2/1.0.0 Mobile UNTRUSTED/1.0
+NokiaC5-00.2/28
+NokiaX2-01/5.0 (08.63) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+Mozilla/5.0 (SymbianOS/9.4; Series60/5.0 NokiaN97-4/10.0.001; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML,like Gecko) BrowserNG/7.1.17125
+NokiaC1-02/2.0 (03.40) Profile/MIDP-2.1 Configuration/CLDC-1.1 UCWEB/2.0 (Java; U; MIDP-2.0; en-US; nokiac1-02) U2/1.0.0 UCBrowser/8.9.0.251 U2/1.0.0 Mobile UNTRUSTED/1.0
+NokiaC3-00/5.0 (07.20) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+ [FB_IAB/FB4A;FBAV/304.0.0.42.118;]
+Nokia6630/1.0 (2.39.15) SymbianOS/8.0 Series60/2.6 Profile/MIDP-2.0 Configuration/CLDC-1.1
+NokiaC1-01/2.0 (06.15) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Java; U; en-us; nokiac1-01) UCBrowser8.3.0.154/69/444/UCWEB Mobile UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.35) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+Mozilla/5.0 (Maemo; Linux; Jolla; Sailfish; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) NokiaBrowser/8.5.0 Mobile Safari/537.36
+NokiaC1-02/2.0 (06.15) Profile/MIDP-2.1 Configuration/CLDC-1.1 UCWEB/2.0 (Java; U; MIDP-2.0; en-US; nokiac1-02) U2/1.0.0 UCBrowser/8.9.0.251 U2/1.0.0 UNTRUSTED/1.0
+Nokia5230/GoBrowser/1.6.0.75
+NokiaE72/GoBrowser/2.0.290
+NokiaC6-00/GoBrowser
+Nokia5250/11.0.008 (SymbianOS/9.4; U; Series60/5.0 Mozilla/5.0; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Safari/525 3gpp-gba
+Nokia6120c/GoBrowser
+NokiaC6-00/10.0.021 (SymbianOS/9.4; Series60/5.0 Mozilla/5.0; Profile/MIDP-2.1 Configuration/CLDC-1.1) AppleWebkit/525 (KHTML, like Gecko) BrowserNG/7.2.6 UNTRUSTED/1.0 3gpp-gba
+NokiaC5-00/GoBrowser
+Nokia5800XpressMusic/GoBrowser/1.6.0.46
+Nokia5730XpressMusic/GoBrowser
+Nokia2700c-2/2.0 (07.80) Profile/MIDP-2.1 Configuration/CLDC-1.1  UNTRUSTED/1.0
+Nokia2700c-2/2.0 (09.98) Profile/MIDP-2.1 Configuration/CLDC-1.1 UNTRUSTED/1.0
+Mozilla/5.0 (SymbianOS/9.4; Series60/5.0 NokiaC5-06/23.6.015; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.1.33 Mobile Safari/533.4
+Mozilla/5.0 (Symbian/3; Series60/5.2 NokiaN8-00/012.002; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.0 Mobile Safari/533.4 3gpp-gba; KAKAOTALK 2109200
+Mozilla/5.0 (SymbianOS/9.4; Series60/5.3; Profile/MIDP-2.1 Configuration/CLDC-1.1) AppleWebkit/525 (KHTML, like Gecko) NokiaBrowser/8.3.1.4 Mobile Safari/525
+Mozilla/5.0 (SymbianOS/9.4; Series60/5.3; Profile/MIDP-2.1 Configuration/CLDC-1.1) AppleWebkit/525 (KHTML, like Gecko) NokiaBrowser/8.5.0 Mobile Safari/525
+NokiaN97_mini/GoBrowser/1.6.0.70
+NokiaN82/GoBrowser/1.6.0.48
+NokiaN85/GoBrowser
+Nokia5730XpressMusic/GoBrowser/1.6.0.75
+NokiaN81/GoBrowser/1.6.0.70
+Mozilla/5.0 (SymbianOS/9.4; Series60/5.0 NokiaX6-00/40.0.002; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.1.33 Mobile Safari/533.4
+NokiaE63/GoBrowser/1.6.86
+Nokia5320XpressMusic/GoBrowser/1.6.91
+NokiaN78/GoBrowser/1.6.0.75
+NokiaN95/GoBrowser
+NokiaN82/GoBrowser
+Mozilla/5.0 (SymbianOS/9.4; Series60/5.0 NokiaC6-00/20.0.042; Profile/MIDP-2.1 Configuration/CLDC-1.1; zh-hk) AppleWebKit/525 (KHTML, like Gecko) BrowserNG/7.2.6.9 3gpp-gba
+Nokia5700XpressMusic/GoBrowser/1.6.91
+Nokia6700s/GoBrowser/1.6.91
+Nokia6700s/GoBrowser/1.6.0.70
+Nokia6120c/GoBrowser/2.0.290
+NokiaN95_8GB/GoBrowser
+NokiaN70/GoBrowser
+Nokia5320XpressMusic/GoBrowser/1.6.0.48
+NokiaC5-00/GoBrowser/1.6.91
+NokiaN97_mini/GoBrowser/1.6.0.48
+Nokia6220c/GoBrowser/1.6.86
+NokiaN85/GoBrowser/1.6.91
+NokiaN97i/SymbianOS/9.1 Series60/3.0
+NokiaN79/GoBrowser/1.6.0.48
+NokiaC1-01/2.0 (04.40) Profile/MIDP-2.1 Configuration/CLDC-1.1
+NokiaC2-01/5.0 (11.00) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Java; U; en-us; nokiac2-01) UCBrowser8.3.0.154/69/444/UCWEB Mobile UNTRUSTED/1.0
+Mozilla/5.0 (SymbianOS/9.2; U; Series60/3.1 NokiaN95/11.0.026; Profile/MIDP-2.0 Configuration/CLDC-1.1 ) AppleWebKit/413 (KHTML, like Gecko) Safari/413
+NokiaC1-01/2.0 (05.40) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Java; U; en-us; nokiac1-01) UCBrowser8.3.0.154/69/444/UCWEB Mobile UNTRUSTED/1.0
+NokiaX2-01/5.0 (07.10) Profile/MIDP-2.1 Configuration/CLDC-1.1 UCWEB/2.0 (Java; U; MIDP-2.0; en-US; nokiax2-01) U2/1.0.0 UCBrowser/8.9.0.251 U2/1.0.0 Mobile UNTRUSTED/1.0
+NokiaX2-01/5.0 (08.70) Profile/MIDP-2.1 Configuration/CLDC-1.1 UCWEB/2.0(Java; U; MIDP-2.0; ar-sa; nokiax2-01) U2/1.0.0 UCBrowser/8.7.1.234 U2/1.0.0 Mobile UNTRUSTED/1.0
+Nokia5320XpressMusic/GoBrowser/2.0.290
+NokiaN97/GoBrowser
+Mozilla/5.0 (SymbianOS/9.2; U; Series60/3.1 NokiaE71-1/100.07.76; Profile/MIDP-2.0 Configuration/CLDC-1.1 ) AppleWebKit/413 (KHTML, like Gecko) Safari/413
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Opera Mini; U; en-US; Desktop) Opera/9.5.0.449 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (iPhone; CPU iPhone OS 15_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/96.0.4664.94 Mobile/15E148 Safari/604.1 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Windows Mobile 10; Android 10.0; Microsoft; Lumia 950XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Mobile Safari/537.36 Edge/40.15254.603 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-G991B/G991BXXS2AU BB) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/16.0 Chrome/92.0.4515.166 Mobile Safari/537.36 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Linux; Android 11; SAMSUNG  SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/15.0 Chrome/95.0.4618.0 Mobile Safari/537.36 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Linux; Android 12; SAMSUNG SM-G996B/G996BXXU3BU R8) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/16.0 Chrome/92.0.4515.166 Mobile Safari/537.36 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Linux; Android 12; SAMSUNG SM-G998) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/15.0 Chrome/95.0.4518.0 Mobile Safari/537.36 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Linux; Android 11; SM-G998N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.166 Mobile Safari/537.36 OPR/65.2.3381.61420 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 OPR/82.0.4227.23 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (iPad; CPU OS 15_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 YaBrowser/21.11.5.594 Mobile/15E148 Safari/605.1 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Macintosh; Intel Mac OS X 12_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) YaBrowser/15.0 Chrome/95.0.4518.0 Safari/537.36 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (iPad; CPU OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Safari/604.1 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Instagram 216.0.0.12.135 (iPhone 14.2; iOS 15_2; ru-RU; ru-RU; scale=3.00; 1170x2532; 338132253) UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (iPhone; CPU iPhone OS 15_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 EdgiOS/96.1054.34 Mobile/15E148 Safari/605.1.15 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-G998B; ru-RU) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Linux; Android 11; XQ-BC; ru-RU) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Linux; Android 11; XQ-BC52; ru-RU) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; BOLT/2.340) AppleWebKit/530+ (KHTML, like Gecko) Version/4.0 Safari/530.17 UNTRUSTED/1.0 3gpp-gba UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (X11; CrOS i686 4537.147.0; ru;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.116 Safari/537.36 UCBrowser/ UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-G998B; ru-RU) AppleWebKit /537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Mobile Safari/537.36 UNTRUSTED/1.0
+NokiaC2-00/2.0 (03.82) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Java; U; en-us; nokiac2-00) AppleWebKit/530.13 (KHTML, like Gecko) UCBrowser/8.6.0.199/69/444/UCWEB Mobile UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Linux; U; Android 11; ; ) AppleWebKit /537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Mobile Safari/537.36 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Linux; Android 12; SAMSUNG SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Mobile Safari/537.36 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0  (Linux; Android 11; SAMSUNG SM-T875  Build/RP1A.200 720.012)  AppleWebKit /537.36  (KHTML, like  Gecko) Version /4.0 Chrome /96.0.4664.104 Safari/537.36  GNews Android /2022034746 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (iPad; CPU OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/19C56 [FBAN/FBIOS;FBDV/iPad8,9;FBMD/iPad;FBSN/iPadOS;FBSV/15.2;FBSS/2;FBID/tablet;FBLC/it_IT;FBOP/5] UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Linux; Android 11; GM1915) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Linux; Android 12; SAMSUNG SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/16.0 Chrome/96.0.4664.104 Mobile Safari/537.36 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/16.0 Chrome/96.0.4664.104 Mobile Safari/537.36 UNTRUSTED/1.0
+Nokia5530XpressMusic/GoBrowser/1.6.0.48
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Linux; Android 12; SAMSUNG SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.70 Mobile Safari/537.36 UNTRUSTED/1.0
+NokiaC2-01/5.0 (11.40) Profile/MIDP-2.1 Configuration/CLDC-1.1 UCWEB/2.0 (Java; U; MIDP-2.0; en-US; nokiac2-01) U2/1.0.0 UCBrowser/8.9.0.251 U2/1.0.0 Mobile UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Linux; Android 12; SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) Kiwi Chrome/97.0.4692.70 Mobile Safari/537.36 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Linux; Android 12; SAMSUNG SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.70 Mobile Safari/537.36 OPR/66.2.3445.62346 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Opera/9.80 (Android 12; Linux; Opera Mobi/ADR-1502251211; U; ru-RU) Presto/2.11.355 Version/12.16 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Opera/9.80 (Android 12; Opera Mini/62.1.2254/191.256; U; en) Presto/2.12.423 Version/12.16 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Mobile Safari/537.36 OPR/66.2.3445.62346 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (iPad; CPU OS 15_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Mobile/15E148 Safari/604.1 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (iPad; CPU OS 15_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Mobile/15E148 CriOS/97.0.4692.84 Safari/604.1 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Windows Mobile 10; Android 10.0; Microsoft; Lumia 950XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4664.104 Mobile Safari/537.36 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Linux; Android 12; SAMSUNG SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.84 Mobile Safari/537.36 YaBrowser/21.11.7.71 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Linux; Android 12; SAMSUNG SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.84 YaBrowser/21.11.7.71.00 Mobile Safari/537.36 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/19C57 [FBAN/FBIOS;FBDV/iPhone14,3;FBMD/iPhone;FBSN/iOS;FBSV/15.2;FBSS/3;FBID/phone;FBLC/en_US;FBOP/5] UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Linux; Android 12; SAMSUNG SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.70 SamsungBrowser/16.0 Mobile Safari/537.36 UNTRUSTED/1.0
+NokiaN85/GoBrowser/1.6.0.75
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Linux; Android 12; SAMSUNG SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) YaBrowser/22.1.2.797 Chrome/97.0.4692.70 Mobile Safari/537.36 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Linux; Android 12; SAMSUNG SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.98 Mobile Safari/537.36 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Opera/9.80 (Android 4.2.2; Linux; Opera Mobi/ADR-1103211415; U; ru) Presto/2.7.81 Version/11.00 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 UCWEB/2.0 (Java; U; MIDP-2.0; en-US; NokiaX2-00) U2/1.0.0 UCBrowser/11.5.3.1189 U2/1.0.0 Mobile UNTRUSTED/1.0 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Linux; Android 12; SAMSUNG SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) UCBrowser/13.3.8.1305 Chrome/97.0.4692.70 Mobile Safari/537.36 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Linux; Android 12; SAMSUNG SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) UCBrowser/13.4.0.1306 Chrome/97.0.4692.70 Mobile Safari/537.36 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Linux; Android 12; SAMSUNG SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) OPR/62.1.2254.60552 Chrome/97.0.4692.98 Mobile Safari/537.36 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Linux; Android 12; SAMSUNG SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) OPR/66.2.3445.62346 Chrome/97.0.4692.98 Mobile Safari/537.36 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Linux; Android 12; SAMSUNG SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) OPR/67.0.3502.6298 Chrome/97.0.4692.98 Mobile Safari/537.36 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Opera/9.80 (Android 12; Linux; Opera Mini/62.1.2254/191.256; U; ru) Presto/2.12.423 Version/12.16 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Linux; Android 12; SAMSUNG SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/16.0.6.23 Chrome/97.0.4692.98  Mobile Safari/537.36 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Opera/9.80 (Android 11; Linux; Opera Mobi/ADR-1103211415; U; ru) Presto/2.7.81 Version/11.00 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Opera/9.80 (Android 11; Linux; Opera Mobi/ADR-1411061201; U; ru-RU) Presto/2.11.355 Version/12.10 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Opera/9.80 (Android 11; Linux; Opera Tablet/ADR-1411061201; U; ru-RU) Presto/2.11.355 Version/12.10 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Opera/9.80 (Android 11; Opera Mini/62.1.2254/191.262; U; ru-RU) Presto/2.12.423 Version/12.16 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Opera/9.80 (Android 11; Linux; Opera Mobi/ADR-1411061201) Presto/2.12.423 Version/12.16 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Opera/9.80 (Android 11; Linux; Opera Mobi/ADR-1411061201) Presto/2.11.355 Version/12.10 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Opera/9.80 (Android 11; Linux; Opera Mobi/ADR-1411061201; U; ru-RU) Presto/2.12.388 Version/12.17 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Opera/9.80 (Android 11; Linux; Opera Tablet/ADR-1502251211; U; ru-RU) Presto/2.11.355 Version/12.10 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Opera/9.80 (Windows Mobile; WCE; Opera Mobi/WMD-50430; U; ru) Presto/2.4.13 Version/10.00 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Opera/9.80 (Android 11; Linux; Opera Table/ADR-1502251211; U; ru-RU) Presto/2.11.355 Version/12.10 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Opera/9.80 (Android 11; Linux; Opera Table/ADR-1502251211; U; ru-RU) Presto/2.11.355 Version/12.14 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Opera/9.80 (Android 11; Linux; Opera Tablet/ADR-1502251211; U; ru-RU) Presto/2.11.355 Version/12.14 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Opera/9.80 (Android 11; Linux; Opera Mobi/ADR-1502251211; U; ru-RU) Presto/2.11.355 Version/12.10 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Opera/9.80 (Android 11; Linux; Opera Tablet/ADR-1502251211; U; ru-RU) Presto/2.12.388 Version/12.16 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Opera/9.80 (Android 11; Linux; Opera Mobi/ADR-1502251211; U; ru-RU) Presto/2.12.388 Version/12.16 UNTRUSTED/1.0
+NokiaX2-01/5.0 (08.70) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Java; U; en-us; nokiax2-01) UCBrowser8.3.0.154/69/444/UCWEB Mobile UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Opera/9.80 (Android 10; Linux; Opera Mobi/ADR-1502251211) Presto/2.11.355 Version/12.10 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Opera/9.80 (Android; Opera Mini/61.0.2254/191.256; U; ru) Presto/2.12.423 Version/12.16 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Opera/9.80 (Android; Opera Mini/62.1.2254/191.256; U; ru) Presto/2.12.423 Version/12.16 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Opera/9.80 (Android; Opera Mini/62.1.2254/191.256; U; ru) Presto/2.12.423 Version/83.0.4254.19 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Opera/9.80 (Android; Opera Mini/62.1.2254/191.256; U; ru) WebKit/537.36 Version/83.0.4254.19 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Opera/9.80 (Android; Opera Mini/61.0.2254/191.256; U; ru-RU) Presto/2.12.423 Version/83.0.4254.19 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Opera/9.80 (Android; Opera Mini/62.1.2254/191.265; U; es) Presto/2.12.423 Version/12.16 UNTRUSTED/1.0
+Mozilla/5.0 (Symbian/3; Series60/5.4 Nokia808PureView/112.010.1506; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/535.1 (KHTML, like Gecko) NokiaBrowser/8.2.1.21 Mobile Safari/535.1 3gpp-gba
+Mozilla/5.0 (SymbianOS/9.4; U; Series60/5.0; Profile/MIDP-2.1 Configuration/CLDC-1.1) AppleWebKit/413 (KHTML, like Gecko) Safari/413
+Mozilla/5.0 (SymbianOS/9.4; Series60/5.0; Android 7.1; MI 4LTE Build/NDE63X; ) AppleWebKit/537.36 (KHTML, like Gecko) UCBrowser/10.9.2.712 U3/0.8.0 Mobile Safari/534.30
+Nokia6101/2.0 (03.35) Profile/MIDP-1.0 Configuration/CLDC-1.1 (Google WAP Proxy/1.0)
+NokiaC2-01/5.0 (11.40) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Java; U; en-us; nokiac2-01) UCBrowser8.2.1.144/69/352/UCWEB Mobile UNTRUSTED/1.0
+NokiaC2-01/5.0 (11.40) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2;.NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2) UNTRUSTED/1.0
+NokiaC2-01/5.0 (11.40) Profile/MIDP-2.1 Configuration/CLDC-1.1 http://www.google.com/bot.html; AppleWebKit/528.18(KHTML,like Gecko) Version/4.0 Mobile/7A341 Safari/528.16/UCWEB8.0.3.99/70/350 UNTRUSTED/1.0
+NokiaC2-01/5.0 (11.40) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Java; U; en-us; nokiac2-01) UCBrowser8.4.0.159/70/352/UCWEB Mobile UNTRUSTED/1.0
+NokiaC3-00/5.0 (03.35) Profile/MIDP-2.1 Configuration/CLDC-1.1 nokiac3-00/UC Browser 8.0.3.107/69/352 UNTRUSTED/1.0
+NokiaN90-1/3.0545.5.1 Series60/2.8 Profile/MIDP-2.0 Configuration/CLDC-1.1
+Nokia2700c/2.0 (09.98) Profile/MIDP-2.1 Configuration/CLDC-1.1  UNTRUSTED/1.0
+NokiaX2-01/5.0 (08.35) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+
+NokiaX2-01/5.0 (08.70) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2;.NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2) UCBrowser8.3.0.154/69/352 UNTRUSTED/1.0
+Nokia110/2.0+(03.33)+Profile/MIDP-2.1+Configuration/CLDC-1.1+UCWEB/2.0+(Java;+U;+MIDP-2.0;+en-US;+Nokia110)+U2/1.0.0+UCBrowser/9.5.0.449+U2/1.0.0+Mobile+UNTRUSTED/1.0
+NokiaX3-00/2.0 (p) Profile/MIDP-2.1 Configuration/CLDC-1.1 jBrowser/J2ME (Google WAP Proxy/1.0)
+Nokia3110c/2.0 Profile/MIDP-2.0 Configuration/CLDC-1.1
+NokiaC1-01/2.0 (06.15) Profile/MIDP-2.1 Configuration/CLDC-1.1 UCWEB/2.0 (Java; U; MIDP-2.0; en-US; nokiac1-01) U2/1.0.0 UCBrowser/8.9.0.251 U2/1.0.0 Mobile UNTRUSTED/1.0
+Nokia300/5.0 (07.57) Profile/MIDP-2.1 Configuration/CLDC-1.1 nokia300 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Linux; Android 12; SAMSUNG SM-X906B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Opera/9.80 (Android; Opera Mini/7.5.33361/191.273; U; pt) Presto/2.12.423 Version/12.16 UNTRUSTED/1.0
+NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (SymbianOS/9.2; U; Series60/3.1 NokiaE71-1/100.07.57; Profile/MIDP-2.0 Configuration/CLDC-1.1 ) AppleWebKit/413 (KHTML, like Gecko) Safari/413 UNTRUSTED/1.0
+NokiaC2-01/5.0 (11.40) Profile/MIDP-2.1 Configuration/CLDC-1.1 UCWEB/2.0 (Java; U; MIDP-2.0; ar; nokiac2-01) U2/1.0.0 UCBrowser/8.9.0.251 U2/1.0.0 Mobile UNTRUSTED/1.0
+Nokia5350/10.1.011 (SymbianOS/10; U; Series63/5.0 Mozilla/5.0; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Safari/525 3gpp-gba
+Nokia 225 4G/2.0(p)Profile/MIDP-2.0 Configration/CLDC-1.1
